@@ -32,11 +32,16 @@ The system uses the following AWS services:
  - S3
    - Storage of static website (HTML, images, scripts etc.)
    - Storage of media files (Video etc.)
+ - Lambda
+ - API Gateway
+ - CloudFront
+ - Route 53 (?) 
  - DynamoDB
    - Storage of user account information, such as media files uploaded etc.
  - Cognito (??) - for user authentication (??)
  - AWS Media services (??)
- - Cloud Form
+ - CloudFormattion or Cloud SDK
+
  - Other AWS services - depending on how far this project gets.
 
 
