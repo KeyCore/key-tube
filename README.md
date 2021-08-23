@@ -6,8 +6,24 @@ and probably never will be. The purpose is to learn how to use various AWS techn
 together - not necessarily to create a fully functional YouTube-like system.
 
 The goal of creating a YouTube-like system is just a guide to pull me (or other learners) 
-through an easy-to-understand use case and set of requirements, which span a good
+through an easy-to-understand use case and requirement set, which span a good
 portion of central and peripheric AWS services.
+
+
+The Key Tube system could consist of:
+
+ - A static website
+ - User accounts (in DynamoDB - or Cognito?)
+ - User information (media files uploaded + metadata etc.)
+ - User preferences (based on watched / liked / disliked videos or explicit feedback)
+ - Media file processing
+   - Conversion to standard format (?)
+   - Different resolution versions of the file (?)
+   - Checking for copyright violations (video / audio)
+   - Extracting transcripts from the media file (for subtitles, reading, and searchability)
+   - etc.
+ - Media file search function
+
 
 The system uses the following AWS services:
 
@@ -18,6 +34,7 @@ The system uses the following AWS services:
    - Storage of user account information, such as media files uploaded etc.
  - Cognito (??) - for user authentication (??)
  - AWS Media services (??)
+ - Cloud Form
  - Other AWS services - depending on how far this project gets.
 
 
