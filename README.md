@@ -7,9 +7,9 @@ together. While a "fully functional / complete" system would be nice to have, it
 not by itself the main goal. The goal is learning. Of course, the more of the system
 that is working, the more has confirmed to have been learned. 
 
-The goal of creating a YouTube-like system is just a guide to pull me (or other learners) 
-through an easy-to-understand use case and requirement set, which span a good
-portion of central and peripheric AWS services.
+The decision to create a YouTube-like system is to have a clear guide to pull me 
+(or other learners) through an easy-to-understand use case + requirement set, 
+which span a good portion of central and peripheric AWS services.
 
 
 The Key Tube system could consist of:
