@@ -40,7 +40,7 @@ The system uses the following AWS services:
    - Storage of user account information, such as media files uploaded etc.
  - Cognito (??) - for user authentication (??)
  - AWS Media services (??)
- - CloudFormattion or Cloud SDK
+ - CloudFormation or Cloud SDK
 
  - Other AWS services - depending on how far this project gets.
 
