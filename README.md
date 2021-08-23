@@ -4,7 +4,8 @@ Key Tube is an attempt at implementing a YouTube-like system using AWS technolog
 This is not a customer case. It is a learning case. Thus, this system is not complete,
 and probably never will be. The purpose is to learn how to use various AWS technologies
 together. While a "fully functional / complete" system would be nice to have, it is
-not by itself the goal. The goal is learning.
+not by itself the main goal. The goal is learning. Of course, the more of the system
+that is working, the more has confirmed to have been learned. 
 
 The goal of creating a YouTube-like system is just a guide to pull me (or other learners) 
 through an easy-to-understand use case and requirement set, which span a good
