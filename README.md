@@ -7,9 +7,9 @@ together. While a "fully functional / complete" system would be nice to have, it
 not by itself the main goal. The goal is learning. Of course, the more of the system
 that is working, the more has confirmed to have been learned. 
 
-The decision to create a YouTube-like system is to have a clear, well-understood
-use case (and thereby requirement set) which implementation uses a good portion of 
-central and peripheric AWS services.
+The reason for creating a "YouTube-like system" is to have a clear, well-understood
+use case (and thereby requirement set) which implementation can benefit from a good portion of 
+central + peripheric AWS services.
 
 
 The Key Tube system could consist of:
